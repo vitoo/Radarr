@@ -1,5 +1,5 @@
 {
-    "name": "digitalhigh/radarr",
+    "name": "vitoo/radarr",
     "description": "PHP Radarr API Wrapper",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^6.1"
+        "guzzlehttp/guzzle": "^7.5"
     },
     "autoload": {
         "psr-4": {
